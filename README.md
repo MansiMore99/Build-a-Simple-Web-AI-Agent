@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="![ChatGPT Image May 17, 2025, 08_50_45 PM](https://github.com/user-attachments/assets/8ebb118b-b544-4921-8c21-e90aba8575cd)
-" alt="Learning Recommender AI Agent" width="100%">
-</p>
-
 <h1 align="center">🤖 Learning Recommender AI Agent</h1>
 
 <p align="center">
@@ -33,6 +28,9 @@ Perfect for learning how to use:
 ---
 
 ## 🚀 Quick Start
+
+![ChatGPT Image May 17, 2025, 08_50_45 PM](https://github.com/user-attachments/assets/0481accc-a4ad-438b-9588-be350ea2b377)
+https://youtu.be/p8m4QpwmAzQ?si=B5rxbzz689iDX6ng
 
 ### 🧰 Local Installation
 
@@ -65,8 +63,6 @@ Make sure that we don't have any other
 courses in the output.
 """
 ```
-
-https://youtu.be/p8m4QpwmAzQ?si=B5rxbzz689iDX6ng
 
 ### Resources:
 
