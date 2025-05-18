@@ -25,11 +25,12 @@ Perfect for learning how to use:
 - Prompting OpenAI models
 - Organizing structured outputs
 
+<img width="816" alt="Screenshot 2025-05-17 at 9 42 33 PM" src="https://github.com/user-attachments/assets/c3599d13-fbe0-40a0-92e3-e57c08ebdcb2" />
+
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Demo
 
-![ChatGPT Image May 17, 2025, 08_50_45 PM](https://github.com/user-attachments/assets/0481accc-a4ad-438b-9588-be350ea2b377)
 https://youtu.be/p8m4QpwmAzQ?si=B5rxbzz689iDX6ng
 
 #### Clone the repo:
