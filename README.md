@@ -36,11 +36,14 @@ https://youtu.be/p8m4QpwmAzQ?si=B5rxbzz689iDX6ng
 
 ```bash
 git clone https://github.com/MansiMore99/Build-a-Simple-Web-AI-Agent.git
-
+```
+```
 cd learning-recommender-agent
-
+```
+```
 pip install -r requirements.txt
-
+```
+```
 AI Agent.ipynb
 ```
 
