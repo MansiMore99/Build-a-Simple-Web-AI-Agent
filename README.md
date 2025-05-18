@@ -32,19 +32,10 @@ Perfect for learning how to use:
 ![ChatGPT Image May 17, 2025, 08_50_45 PM](https://github.com/user-attachments/assets/0481accc-a4ad-438b-9588-be350ea2b377)
 https://youtu.be/p8m4QpwmAzQ?si=B5rxbzz689iDX6ng
 
-### 🧰 Local Installation
+#### Clone the repo:
 
 ```bash
 git clone https://github.com/MansiMore99/Build-a-Simple-Web-AI-Agent.git
-```
-```
-cd learning-recommender-agent
-```
-```
-pip install -r requirements.txt
-```
-```
-AI Agent.ipynb
 ```
 
 ### 🧩 Features
